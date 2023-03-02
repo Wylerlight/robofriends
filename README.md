@@ -1,2 +1,2 @@
 # robofriends
-Robot Generator
+Robot sorter. Project used as introductory to React.
